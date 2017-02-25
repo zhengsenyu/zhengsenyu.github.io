@@ -35,4 +35,19 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-	<html><body><h1>hello world</h1></body></html>
+	<html>
+		<meta charset="UTF-8">
+		<style>
+			h1{
+				color:red;
+
+			}
+			h2{
+				color:purple;
+			}
+		</style>
+	<body>
+		<h1>郑森钰的个人简历</h1>
+		<h2>个人简介</h2>
+	</body>
+	</html>
