@@ -1,0 +1,9 @@
+.col-md-10{
+    border: 1px solid #ddd;
+    height: 100%;
+}
+.col-md-2 > button {
+    position: absolute;
+    top: -56px;
+    right: 30px;
+}
