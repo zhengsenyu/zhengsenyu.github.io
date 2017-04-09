@@ -1,9 +1,25 @@
+h3 {
+    display: inline-block;
+}
+.nav-nav {
+    display: inline-block;
+    vertical-align: top;
+}
 .col-md-10{
     border: 1px solid #ddd;
     height: 100%;
+    /*margin-left: 80px;*/
 }
 .col-md-2 > button {
     position: absolute;
     top: -56px;
     right: 30px;
 }
+/*.col-md-2 {
+    position: fixed;
+}*/
+/*@media (min-width: 1026px) {
+    .button-menu {
+        display: block;
+    }
+}*/
